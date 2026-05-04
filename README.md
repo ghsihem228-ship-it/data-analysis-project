@@ -8,7 +8,7 @@ It includes data loading, statistical analysis, and visualization of average sco
 - Python
 - Pandas
 - Matplotlib
-- CSV Data
+- CSV Data 
 
 ## Files
 - `data.csv`: Student performance dataset
